@@ -172,7 +172,7 @@ footer small {
 }
 @media (min-width: 768px) {
     .cover {
-        background: url(/assets/wedding-landing-cover.jpg) no-repeat center cover;
+        background: url(/assets/wedding-landing-cover.jpg) no-repeat center;
     }
     .cover-text {
         padding: 1.25rem;
